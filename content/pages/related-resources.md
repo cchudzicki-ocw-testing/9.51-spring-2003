@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to additional resources for the investigation
+  of short-term memory. The links provide valuable resources for stimuli and background
+  information to perform experiments in affective priming with extremely short exposures.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
